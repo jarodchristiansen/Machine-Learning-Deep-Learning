@@ -1,7 +1,3 @@
-# Python Projects Monolith Repo
-This is a collection of projects built utilizing Python during personal study. Many projects have been designed as templatized versions within Google Laboratory notebooks
-so you can clone them and easily utilize them in your own projects.
-
 ## Machine Learning
 Coursework created through multiple machine learning courses from Perian Data, Jose Portilla, and 365 Careers. Including linear and logistic regressions to perform predictions
 as well as time series forecasting based on real world data. Integration of various statistical libraries with Python like SkLearn, Pandas, NumPy and Seaborn. 
