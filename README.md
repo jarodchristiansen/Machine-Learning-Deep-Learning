@@ -2,6 +2,8 @@
 Coursework created through multiple machine learning courses from Perian Data, Jose Portilla, and 365 Careers. Including linear and logistic regressions to perform predictions
 as well as time series forecasting based on real world data. Integration of various statistical libraries with Python like SkLearn, Pandas, NumPy and Seaborn. 
 
+ - Machine Learning Breakdown 
+
 ## Neural Networks
 Courswork from multiple machine learning, deep learning, and AI development with John Harper, Mark Winterbottom, and Jose Portilla.
 Django development centered integration for machine learning and neural netowrks for time series forecasting, Natural Language Processing, and Computer Vision.
@@ -28,6 +30,12 @@ Django development centered integration for machine learning and neural netowrks
   - Bitcoin TA/Prophet Bokeh - Statiscal analysis of Bitcoin price data in comparison with other financial assets including other leading crypto assets. Features analysis
   of Plan B's Stock to Flow Model, Marcel Berger's argument of cointegration between Bitcoin and other financial assets. Interactive Bokeh chart to perform technical analysis
   as well as improved Prophet model to predict future price expectations. 
+
+
+## Renforcment Learning
   - First TensorTrade Bot - Automated trading bot created utilizing TensorTrade and Tensorflow frameworks. Integrated historical price data for leading crypto assets to model
   market conditions, reinforcement learning applied to historical data to create a profitable trading bot. 
 
+## Financial
+  - Bitcoin Prediction LSTM - Long Short Term Memory Gated Neural Network featuring price data scraper to analyze and predict the future price of Bitcoin Crypto Asset.
+  - Bitcoin Prophet Model - Basic integration of Prophet AutoRegression Neural Network to predict the price of Bitcoin.
