@@ -21,7 +21,7 @@ Django development-centered integration for machine learning and neural networks
  - SQUAD GPT-2 - Conversational Q&A GPT-2 Bot trained on SQUAD question and answer dataset. 
  - Vader Sentiment Analysis - Text analysis project created utilizing Vader library to determine tone, and sentiment of text.
  - Text Generation LSTM - Custom-created Long Short Term Memory neural network designed to generate text. A gated neural network retains memory beyond the capabilities of 
- Recurrent Neural Networks still have severe memory/text length limitations in comparison to Transformer versions.
+ Recurrent Neural Networks still have severe memory/text length limitations in comparison to Transformer versions. Google Custom Search setup: set secrets `GOOGLE_CSE_API_KEY` and `GOOGLE_CSE_ID` in Colab userdata, or environment variables with the same names locally.
  - Text-to-Speech - Text-to-speech script created utilizing Pystixx library and text generated from GPT-2 text model.
  
  ### Time Series Forecasting
